@@ -1,6 +1,5 @@
 # React Calculator
 
-This calculator was previous built with jQuery (https://github.com/vsan21/jQuery-Calculator), and has been improved and converted to React.
 
 ### Components:
 1. Display - describes what I want to show on the browser (this also includes updating). 
@@ -8,8 +7,6 @@ This calculator was previous built with jQuery (https://github.com/vsan21/jQuery
 3. Calculations - created a separate file just for the "equal" functionality (i.e. getting the result number) 
 
 ![Calculator](https://media.giphy.com/media/1BgJCMUxSTC6sHZBu5/giphy.gif)
-
-View and play with the calculator here: https://vsan21.github.io/React-Calculator/
 
 #### If you would like to clone this project and run it on your own local machine, follow the steps: 
 1. Copy the repo URL
